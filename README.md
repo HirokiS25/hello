@@ -1,4 +1,4 @@
-# pip+gitで自作のライブラリをインストールする
+# pipでgithub上のライブラリをインストールする
 
 [この記事](https://qiita.com/syakoo/items/deddeb91e2a0313a45f7)を参考に
 githubのrepositoryにあるpythonスクリプトをインストールする。
